@@ -1,5 +1,10 @@
-### Hello, My name is Gyutae Oh. It is a software developer aiming for various developments. I am currently working at a research institute located in Pangyo. The main interests are vehicle infotainment systems and big data and cloud systems. Thank you.
-#####
+```
+Hello, My name is Gyutae Oh. It is a software developer aiming for various developments. 
+I am currently working at a research institute located in Pangyo. 
+The main interests are vehicle infotainment systems and big data and cloud systems. 
+Thank you.
+```
+
 - Embedded Software / Firmware system
 - In Vehicle
 - Machine Learning (IoT)
