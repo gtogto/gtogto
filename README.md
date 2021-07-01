@@ -4,13 +4,14 @@ It is a software developer aiming for various developments.
 I am currently working at a research institute located in Pangyo. 
 The main interests are vehicle infotainment systems and big data and cloud systems. 
 Thank you.
+Recently, I am interested in TDoA and distance measurement algorithms such as TWR and OWR.
 ```
 
 - Embedded Software / Firmware system
-- In Vehicle
+- In Vehicle System
 - Machine Learning (IoT)
 - Big Data, Block Chain(EOS.io) 
-- C, C++, Java, Android 
+- C, C++, Java, Android
 - Linux system / Python (Cloud system & BLE Service)
 - QT, QML (for Vehicle UI)
 
